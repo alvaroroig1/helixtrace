@@ -2,7 +2,7 @@
 
 **ML-assisted recovery for future DNA archives.**
 
-OpenAi Hackathon
+OpenAI Hackathon
 
 Some files are used every day. Others are meant to outlive the hardware they sit on: film and image
 masters, scientific datasets, cultural collections, and institutional records. Synthetic DNA is
